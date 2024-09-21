@@ -1,7 +1,9 @@
 🍕 Pizza React Project
+
 This project is a React-based application that manages data about various pizzas. It allows users to explore different pizza types, and the pizza data is reused for various components and purposes throughout the app. This project is built as part of Jonas Schmedtmann's Ultimate React Course.
 
 📚 Features
+
 Pizza Data Management: The app contains a list of different pizzas, each with details such as name, ingredients, and price.
 Reusable Components: Pizza data is used in various components to demonstrate reusability and scalability within a React application.
 Responsive UI: Built using modern frontend tools and design patterns to ensure a great experience across devices.
